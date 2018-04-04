@@ -1,2 +1,2 @@
 # assignments
-[assingment](http://localhost:8888/notebooks/Downloads/assignment2.ipynb)
+[assingment](https://github.com/lucatielemans/assignments/blob/master/assignment2.ipynb)
