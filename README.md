@@ -1,5 +1,5 @@
 # assignments
-[assingment](https://github.com/lucatielemans/assignments/blob/master/assignment2.ipynb)
-
+[assingment week2](https://github.com/lucatielemans/assignments/blob/master/assignment2.ipynb)
+[assingment week3] (https://github.com/lucatielemans/assignments/blob/master/assignment3.ipynb)
 
 
