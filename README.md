@@ -10,3 +10,4 @@
 ## assingments Rstudio
 
 [assingment 1](https://github.com/lucatielemans/assignments/blob/master/graded_assignment_1.Rmd)
+[assingment 1](https://github.com/lucatielemans/assignments/blob/master/Graded_assignment_2.ipynb)
