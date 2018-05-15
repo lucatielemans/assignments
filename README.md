@@ -1,5 +1,5 @@
 # assignments
-## assingments jupyler
+## assingments jupyter
 
 [assingment 2](https://github.com/lucatielemans/assignments/blob/master/assignment2.ipynb)
 
