@@ -17,8 +17,8 @@
 
 
 ## final R Studio 
-[final R Studio](https://russet.uvt.nl/user/u891784/notebooks/Exam_student.ipynb) 
+[final R Studio](https://github.com/lucatielemans/assignments/blob/master/Exam_student%20R.ipynb) 
 
 
 ## final jupyter
-[final jupyter](https://github.com/lucatielemans/assignments/blob/master/exam_june_7_2018.ipynb)
+[final jupyter](https://github.com/lucatielemans/assignments/blob/master/Exam_student%20R.ipynb)
