@@ -21,4 +21,4 @@
 
 
 ## final phyton
-[final jupyter](https://github.com/lucatielemans/assignments/blob/master/exam_june_7_2018.ipynb)
+[final phyton](https://github.com/lucatielemans/assignments/blob/master/exam_june_7_2018.ipynb)
