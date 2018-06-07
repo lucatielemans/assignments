@@ -1,6 +1,7 @@
 # assignments
 ## assignments jupyter
 
+
 [assingment 2](https://github.com/lucatielemans/assignments/blob/master/assignment2.ipynb)
 
 [assingment 3](https://github.com/lucatielemans/assignments/blob/master/assignment3.ipynb)
@@ -15,4 +16,9 @@
 [assingment 2](https://github.com/lucatielemans/assignments/blob/master/graded_assignment_2.Rmd)
 
 
-## final R Studio (https://russet.uvt.nl/user/u891784/notebooks/Exam_student.ipynb) 
+## final R Studio 
+[final R Studio](https://russet.uvt.nl/user/u891784/notebooks/Exam_student.ipynb) 
+
+
+## final jupyter
+[final jupyter](https://github.com/lucatielemans/assignments/blob/master/exam_june_7_2018.ipynb)
