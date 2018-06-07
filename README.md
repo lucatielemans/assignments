@@ -15,5 +15,4 @@
 [assingment 2](https://github.com/lucatielemans/assignments/blob/master/graded_assignment_2.Rmd)
 
 
-## final R Studio 
-(https://russet.uvt.nl/user/u891784/notebooks/Exam_student.ipynb) 
+## final R Studio (https://russet.uvt.nl/user/u891784/notebooks/Exam_student.ipynb) 
