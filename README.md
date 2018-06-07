@@ -20,5 +20,5 @@
 [final R Studio](https://github.com/lucatielemans/assignments/blob/master/Exam_student%20R.ipynb) 
 
 
-## final jupyter
-[final jupyter](https://github.com/lucatielemans/assignments/blob/master/Exam_student%20R.ipynb)
+## final phyton
+[final jupyter](https://github.com/lucatielemans/assignments/blob/master/exam_june_7_2018.ipynb)
